@@ -1,3 +1,4 @@
+For Task3:
 This code contains a Python implementation of the Wavefront propagation program to solve Sudoku puzzles. The program is implemented in the function ‘solve_sudoku’, which takes as input a nested list representing a grid of Sudoku, where empty locations are represented as [1, 2, …, 9].
 
 The program works by iteratively propagating known values in each row, column, and box to eliminate possible values in neighboring cells. This reduces the number of possible values for each cell and allows the algorithm to fill in more cells. If this process does not solve the puzzle entirely, the program searches for the unfilled location with the fewest possible values and tries each value recursively until it finds a solution or exhausts all possibilities.
