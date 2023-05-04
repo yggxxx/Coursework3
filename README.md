@@ -4,6 +4,17 @@ This program to solve the Sudoku matrix in the internal modification of the matr
 
 
 
+For Task2:
+
+I write code to parse the following flags:
+-explain, which provides a set of instructions for solving the puzzle.
+-file INPUT OUTPUT, which reads a grid from the input file, solves it, and then saves the solution to the output file.
+-hint N, which rather than giving the full solution, instead returns a grid with N values filled in.
+-profile, which measures the performance of the solution for grids of different size and difficulties.
+I also write the main function that acts as an entry point to parse these flags and select the appropriate behavior.
+
+
+
 For Task3:
 
 This code contains a Python implementation of the Wavefront propagation program to solve Sudoku puzzles. The program is implemented in the function ‘solve_sudoku’, which takes as input a nested list representing a grid of Sudoku, where empty locations are represented as [1, 2, …, 9].
