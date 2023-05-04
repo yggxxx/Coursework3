@@ -1,3 +1,9 @@
+For Task1:
+
+This program to solve the Sudoku matrix in the internal modification of the matrix to be solved, input after the execution of the script can be obtained. Run the python HaonanZhou_task01.py command. 
+
+
+
 For Task3:
 
 This code contains a Python implementation of the Wavefront propagation program to solve Sudoku puzzles. The program is implemented in the function ‘solve_sudoku’, which takes as input a nested list representing a grid of Sudoku, where empty locations are represented as [1, 2, …, 9].
