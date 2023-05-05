@@ -1,6 +1,7 @@
 For Task1:
 
-This program to solve the Sudoku matrix in the internal modification of the matrix to be solved, input after the execution of the script can be obtained. Run the python HaonanZhou_task01.py command. 
+This program to solve the Sudoku matrix in the internal modification of the matrix to be solved, input after the execution of the script can be obtained. Run the python HaonanZhou_task01.py command. HaonanZhou_task01.py for task1 run separately, if you want to go to run task1 and task2 integration, please run ChenzhengxiongZhang/Haonanzhou_task1.py
+This file is two people cooperation after the integration of the program.
 
 
 
